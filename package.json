@@ -4,7 +4,6 @@
   "description": "Write consistency JavaScript without losing your brain",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
   },
   "repository": {
     "type": "git",
