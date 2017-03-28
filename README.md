@@ -7,8 +7,17 @@
 
 ## Installation
 
+Install `ESLint` either locally or globally.
+
 ```bash
-npm install @chtijs/eslint-config --save-dev
+$ npm install eslint --save-dev
+```
+
+If you installed ESLint globally, you have to install eslint-config plugin globally too. Otherwise, install it locally.
+
+
+```bash
+$ npm install @chtijs/eslint-config --save-dev
 ```
 
 ## Usage
