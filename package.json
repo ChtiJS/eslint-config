@@ -1,7 +1,7 @@
 {
   "name": "@chtijs/eslint-config",
   "version": "1.0.0",
-  "description": "Don't tell me how to live my life",
+  "description": "Write consistency JavaScript without losing your brain",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

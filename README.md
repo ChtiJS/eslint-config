@@ -3,6 +3,7 @@
 > Write consistency JavaScript without losing your brain
 
 [![npm](https://img.shields.io/npm/v/@chtijs/eslint-config.svg?maxAge=2592000)](https://www.npmjs.com/package/@chtijs/eslint-config)
+[![Build Status](https://travis-ci.org/ChtiJS/eslint-config.svg?branch=master)](https://travis-ci.org/ChtiJS/eslint-config)
 
 ## Installation
 
