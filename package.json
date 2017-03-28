@@ -1,5 +1,5 @@
 {
-  "name": "@flexbox/eslint-config",
+  "name": "@chtijs/eslint-config",
   "version": "1.0.0",
   "description": "Don't tell me how to live my life",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexbox/eslint-config.git"
+    "url": "git+https://github.com/chtijs/eslint-config.git"
   },
   "keywords": [
     "eslint-config"
@@ -16,9 +16,9 @@
   "author": "David Leuliette <dleuliette@gmail.com> (http://davidl.fr)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flexbox/eslint-config/issues"
+    "url": "https://github.com/chtijs/eslint-config/issues"
   },
-  "homepage": "https://github.com/flexbox/eslint-config#readme",
+  "homepage": "https://github.com/chtijs/eslint-config#readme",
   "peerDependencies": {
     "eslint": ">= 3"
   },

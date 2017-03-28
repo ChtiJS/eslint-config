@@ -2,12 +2,12 @@
 
 > Write consistency JavaScript without losing your brain
 
-[![npm](https://img.shields.io/npm/v/@flexbox/eslint-config.svg?maxAge=2592000)](https://www.npmjs.com/package/@flexbox/eslint-config)
+[![npm](https://img.shields.io/npm/v/@chtijs/eslint-config.svg?maxAge=2592000)](https://www.npmjs.com/package/@chtijs/eslint-config)
 
 ## Installation
 
 ```bash
-npm install @flexbox/eslint-config --save-dev
+npm install @chtijs/eslint-config --save-dev
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ In your `.eslintrc`:
 
 ```json
 {
-  "extends": "@flexbox"
+  "extends": "@chtijs"
 }
 ```
 
@@ -28,7 +28,7 @@ Extends the default eslint config, parses with Babel, and adds the `import` plug
 - Single quotes.
 - More rigit JSDoc enforcement.
 - Allow functions to be defined after they're first referenced. (Yay hoisting!)
-- `if`/`else` go on separate lines. *(This is my stupid hill and I will die on it.)*
+- `if`/`else` go on separate lines.
 - Consistent return values optional.
 - Prefer `const`, then `let`, but never `var`.
 - Capitalize the first word in a comment.
@@ -39,7 +39,7 @@ Extends the default eslint config, parses with Babel, and adds the `import` plug
 ## Local Development
 
 ```bash
-git clone https://github.com/flexbox/eslint-config
+git clone https://github.com/chtijs/eslint-config
 cd eslint-config
 ```
 
